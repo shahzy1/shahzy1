@@ -30,4 +30,4 @@ Azure Visio Stencil Builder — Open-source utility for creating consistent Azur
 
 🧭 Philosophy
 
-Values clear architecture, least-privilege access, and automation with intent — building solutions teams can actually operate.
+I focus on connecting data, cloud platforms, and applied AI to build systems that are secure by design, scalable in practice, and economical to operate.
